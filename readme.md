@@ -1,6 +1,8 @@
-# THis is my nice heading!
+# This is my nice heading!
 
++by Batu
 +now i have changed it
+
 
 + item 2
 
